@@ -26,11 +26,10 @@ A console-based C++ implementation of **Nine Board Tic Tac Toe** — a strategic
    cd NineBoardTicTacToe/src
 Compile the code:
 
-Edit
+```bash
 g++ -o game main.cpp
 Run the executable:
 
-bash
-Copy
+```bash
 Edit
 ./game
