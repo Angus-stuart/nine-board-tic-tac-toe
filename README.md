@@ -24,12 +24,11 @@ A console-based C++ implementation of **Nine Board Tic Tac Toe** — a strategic
    ```bash
    git clone https://github.com/YOUR_USERNAME/NineBoardTicTacToe.git
    cd NineBoardTicTacToe/src
-Compile the code:
 
-```bash
-g++ -o game main.cpp
-Run the executable:
-
-```bash
-Edit
-./game
+2. Compile the code:
+    ```bash
+    g++ -o game main.cpp
+    
+3. Run the executable:
+    ```bash
+    ./game
